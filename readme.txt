@@ -1,0 +1,1 @@
+Random javascript exercises
